@@ -4,6 +4,7 @@
 - 播放列表
  - 上下滑动具有简单动画效果
  - 点击后进入播放页面
+
 ![s](https://raw.githubusercontent.com/leeSmile/QQMusic/master/Image/Simulator%20Screen%20Shot%202015%E5%B9%B411%E6%9C%8823%E6%97%A5%2020.06.11.png)
 - 播放详情
  - 可以暂停，播放音乐
