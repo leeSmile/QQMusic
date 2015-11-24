@@ -12,5 +12,5 @@
  - 同步当前歌词
  - 向左滑动，会出现歌词界面，同时播放界面变透明
 
-![s](Simulator Screen Shot 2015年11月23日 20.06.11.png)
+![s](https://raw.githubusercontent.com/leeSmile/QQMusic/master/Image/Simulator%20Screen%20Shot%202015%E5%B9%B411%E6%9C%8823%E6%97%A5%2020.06.11.png)
 ####暂时只能实现部分功能，并且是本地资源，仅供新手参考学习交流
